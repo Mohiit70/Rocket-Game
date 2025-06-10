@@ -15,6 +15,19 @@ This Tic Tac Toe game allows two players to take turns marking spaces on a 3x3 g
 - Draw detection when the board is full
 - Option to play multiple rounds
 
+## Screenshots
+
+<img src="screenshots/Screenshot%202025-06-01%20115616.png" alt="AWS Q CLI Screenshot" width="300"/>
+
+<img src="screenshots/Screenshot%202025-06-01%20115716.png" alt="Code Screenshot" width="300"/>
+
+<img src="screenshots/Screenshot%202025-06-01%20113949.png" alt="Gameplay Screenshot" width="300"/>
+
+
+## 🎬 Demo Video
+
+[Watch the Tic Tac Toe demo](https://youtu.be/uFgzl_i4thA?si=ZMIGTvMT09qkINYs)
+
 ## Installation
 
 ### Prerequisites
